@@ -4,7 +4,7 @@
 To predict the probability that somebody will experience financial distress(serious delinquency) in the next two years.
 
 ## Dataset used
-- Dataset: <a href="https://github.com/bharat6174/Credit_Risk_Model/blob/main/Give%20me%20some%20credit%20dataset.csv">Give me some credit</a> (open it, then click on _**View raw**_ to download the excel file)
+- Dataset: <a href="https://github.com/bharat6174/Credit_Risk_Model/blob/main/Give%20me%20some%20credit%20dataset.csv">credit dataset</a> (open it, then click on _**View raw**_ to download the excel file)
 ## Process
 The project covers data cleaning, feature engineering, handling class imbalance, model training with XGBoost, and threshold selection strategies.<br>
 
